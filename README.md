@@ -3,5 +3,5 @@
 
 Welcome
 
-![My Image appear here!](dashboard.png "My Sales Dashboard")
+![My Image appear here!](dashboard.PNG "My Sales Dashboard")
 
